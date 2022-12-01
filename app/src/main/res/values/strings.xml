@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">triviaApp</string>
+    <string name="txtTitulo">Bienvenido a la Trivia de Hoy</string>
+    <string name="playerName"></string>
+    <string name="hintPlayerName">Escribe tu nombre</string>
+    <string name="btnStart">Iniciar</string>
+    <string name="txtTriviaTitle">Nuestra pregunta del día</string>
+    <string name="hellow_player">Hola, %1$s!</string>
+    <string name="question">¿A qué lenguaje o herramienta de programación pertenece la imagen?</string>
+    <string name="radio_question_1">Microsoft Visual Studio</string>
+    <string name="radio_question_2">Borland C++</string>
+    <string name="radio_question_3">Apache NetBeans IDE 14</string>
+    <string name="radio_question_4">Harbour/xHarbour</string>
+    <string name="radio_question_5">Pyton</string>
+    <string name="startButton">Comenzar</string>
+    <string name="sendAnswer">Enviar Respuesta</string>
+    <string name="btnTryAgain">Ganaste, intentalo otra vez</string>
+    <string name="txtWinnerTitle">¡¡¡ Felicitaciones !!!</string>
+    <string name="winnerMessage">¡ Genial %1$s!</string>
+    <string name="btnYouLose">Ánimo, intentalo otra vez</string>
+    <string name="txtLoserTitle">Debes estudiar más...</string>
+    <string name="loserMessage">%1$s!, estuviste cerca, tu respuesta es incorrecta...</string>
+    <string name="escribe_tu_nombre">Escribe tu nombre</string>
+</resources>
